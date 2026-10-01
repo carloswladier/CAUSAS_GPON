@@ -1,0 +1,9 @@
+{
+  "name": "Relatório Técnico de Campo - Telecom",
+  "description": "Sistema de registro de ordens de serviço, diagnóstico de fibra óptica (NAP/DIO, ONT), apontamento de falhas e evidências fotográficas em campo.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
